@@ -1,0 +1,45 @@
+{
+  "ProjectName": "REST_HYBRID_17_0215_152152_AB",
+  "ProjectGuid": "a801aed3-eea1-46f6-be96-63e920950621",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.RESTHYBRID170215152152AB",
+  "DisplayName": "REST_HYBRID_17_0215_152152_AB",
+  "Author": "",
+  "Description": "REST_HYBRID_17_0215_152152_AB",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{fa3b86ed-d44e-4005-b8d4-e2bf094f769d}",
+  "WP8ProductID": "{985cabaa-2398-434d-8809-ca3cfc55284c}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.RESTHYBRID170215152152AB",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
